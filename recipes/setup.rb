@@ -9,7 +9,7 @@ package 'ntp' do
 end
 
 file '/etc/motd' do
-  content "This system is the property of Smercy"
+  content "This system is the property of Author"
   owner "root"
   group "root"
 end
