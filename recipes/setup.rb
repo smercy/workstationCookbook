@@ -1,3 +1,5 @@
+package 'vim-enhanced'
+package 'git'
 package 'tree' do
   action :install
 end
